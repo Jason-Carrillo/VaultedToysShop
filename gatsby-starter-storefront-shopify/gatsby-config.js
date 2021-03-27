@@ -29,7 +29,7 @@ module.exports = {
         },
         manifest: {
           name: 'Gatsby Storefront Demo Store',
-          short_name: 'Gatsby Storefront',
+          short_name: 'Vaulted Toys',
           start_url: '/',
           background_color: '#fff',
           theme_color: '#333',
