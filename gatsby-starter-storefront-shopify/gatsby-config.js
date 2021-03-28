@@ -31,8 +31,8 @@ module.exports = {
           name: 'Gatsby Storefront Demo Store',
           short_name: 'Gatsby Storefront',
           start_url: '/',
-          background_color: '#D6BFF4',
-          theme_color: '#04D5BF',
+          background_color: '#fff',
+          theme_color: '#333',
           display: 'standalone',
           icon: 'src/images/shopping_bag.svg',
           icon_options: {
@@ -81,7 +81,7 @@ module.exports = {
       //
       mainPage: [
         {
-          type: 'carousel',
+          type: 'collection',
           children: [
             {
               name: 'Jewelery',
@@ -193,8 +193,7 @@ module.exports = {
           },
           { 
             name: 'Funko', 
-            type: 'header', 
-            handle: 'news',
+            handle: 'header',
             children: [
               {
                 name: 'Funko Pops',
