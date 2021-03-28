@@ -46,7 +46,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://demo.gatsbystorefront.com',
     gatsbyStorefrontConfig: {
-      storeName: 'Gatsby Storefront',
+      storeName: 'Vaulted Toys',
       storeDescription: 'Demo store description',
       email: 'vaultedtoysshop@gmail.com',
       company: 'Vaulted Toys',
