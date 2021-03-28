@@ -50,7 +50,7 @@ module.exports = {
       storeDescription: 'Demo store description',
       email: 'vaultedtoysshop@gmail.com',
       company: 'Vaulted Toys',
-      location: 'New York, NY',
+      location: 'Sonora, TX',
       address: '1 Centre St.',
       phone: '+1 (800) 123-1234',
       workingDays: 'Mon - Fri',
