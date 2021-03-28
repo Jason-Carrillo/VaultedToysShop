@@ -49,7 +49,7 @@ module.exports = {
       storeName: 'Gatsby Storefront',
       storeDescription: 'Demo store description',
       email: 'vaultedtoysshop@gmail.com',
-      company: 'Gatsby Storefront Inc.',
+      company: 'Vaulted Toys',
       location: 'New York, NY',
       address: '1 Centre St.',
       phone: '+1 (800) 123-1234',
