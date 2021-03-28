@@ -185,7 +185,7 @@ module.exports = {
                 handle: 'garden',
               },
               {
-                name: 'Apparel',
+                name: 'Soccer',
                 type: 'collection',
                 handle: 'apparel',
               },
