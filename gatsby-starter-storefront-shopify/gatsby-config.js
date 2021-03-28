@@ -48,7 +48,7 @@ module.exports = {
     gatsbyStorefrontConfig: {
       storeName: 'Gatsby Storefront',
       storeDescription: 'Demo store description',
-      email: 'info@gatsbystorefront.com',
+      email: 'vaultedtoysshop@gmail.com',
       company: 'Gatsby Storefront Inc.',
       location: 'New York, NY',
       address: '1 Centre St.',
