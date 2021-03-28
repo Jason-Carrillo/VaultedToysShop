@@ -193,7 +193,7 @@ module.exports = {
           },
           { 
             name: 'Funko', 
-            type: 'blog', 
+            type: 'header', 
             handle: 'news',
             children: [
               {
