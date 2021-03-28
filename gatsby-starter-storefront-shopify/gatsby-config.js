@@ -185,7 +185,7 @@ module.exports = {
                 handle: 'garden',
               },
               {
-                name: 'Soccer',
+                name: 'Apparel',
                 type: 'collection',
                 handle: 'apparel',
               },
@@ -327,7 +327,18 @@ module.exports = {
               },
             ],
           },
-          { name: 'Funko', type: 'blog', handle: 'news' },
+          { 
+            name: 'Funko', 
+            type: 'blog', 
+            handle: 'news',
+            children: [
+              {
+                name: 'Funko Pops',
+                type: 'collection',
+                handle: 'apparel',
+              }
+            ],
+          },
         ],
       }),
       footerLinks: [
