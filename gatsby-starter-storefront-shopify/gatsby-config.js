@@ -164,20 +164,10 @@ module.exports = {
             link: '',
             children: [
               {
-                name: 'Apparel',
+                name: 'Cards',
                 type: 'collection',
                 handle: 'apparel',
-              },
-              {
-                name: 'Jewelery',
-                type: 'collection',
-                handle: 'jewelery',
-              },
-              {
-                name: 'One product',
-                type: 'product',
-                handle: 'red-sports-tee',
-              },
+              }
             ],
           },
           {
@@ -185,12 +175,12 @@ module.exports = {
             type: 'header',
             children: [
               {
-                name: 'Test',
+                name: 'Basketball',
                 type: 'collection',
                 handle: 'test-collection',
               },
               {
-                name: 'Garden',
+                name: 'Football',
                 type: 'collection',
                 handle: 'garden',
               },
