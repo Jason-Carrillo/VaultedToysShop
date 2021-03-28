@@ -181,7 +181,7 @@ module.exports = {
             ],
           },
           {
-            name: "Men's",
+            name: "Sports",
             type: 'header',
             children: [
               {
