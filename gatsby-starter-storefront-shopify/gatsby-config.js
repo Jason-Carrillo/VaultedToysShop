@@ -158,7 +158,7 @@ module.exports = {
         type: 'top',
         children: [
           {
-            name: "Women's",
+            name: "Pokemon",
             type: 'header',
             handle: '',
             link: '',
