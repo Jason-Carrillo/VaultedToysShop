@@ -47,7 +47,7 @@ module.exports = {
     siteUrl: 'https://demo.gatsbystorefront.com',
     gatsbyStorefrontConfig: {
       storeName: 'Vaulted Toys',
-      storeDescription: 'Demo store description',
+      storeDescription: 'Collectibles',
       email: 'vaultedtoysshop@gmail.com',
       company: 'Vaulted Toys',
       location: 'Sonora, TX',
