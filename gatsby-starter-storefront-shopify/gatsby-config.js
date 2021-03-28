@@ -337,7 +337,7 @@ module.exports = {
               },
             ],
           },
-          { name: 'Blog', type: 'blog', handle: 'news' },
+          { name: 'Funko', type: 'blog', handle: 'news' },
         ],
       }),
       footerLinks: [
