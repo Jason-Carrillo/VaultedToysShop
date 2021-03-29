@@ -14,7 +14,7 @@ module.exports = {
           apiUrl: process.env.GATSBYSTOREFRONT_API_URL,
           accessToken: process.env.GATSBYSTOREFRONT_ACCESS_TOKEN,
         },
-        useGatsbyStorefrontApi: false,
+        useGatsbyStorefrontApi: true,
         basePath: '/',
         productImagesCarouselProps: {
           // See: https://github.com/express-labs/pure-react-carousel#carouselprovider-
@@ -44,7 +44,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    siteUrl: 'https://demo.gatsbystorefront.com',
+    siteUrl: 'https://VaultTesting.myshopify.com',
     gatsbyStorefrontConfig: {
       storeName: 'Vaulted Toys',
       storeDescription: 'Collectibles',
@@ -81,7 +81,7 @@ module.exports = {
       //
       mainPage: [
         {
-          type: 'collection',
+          type: 'product',
           children: [
             {
               name: 'Jewelery',
