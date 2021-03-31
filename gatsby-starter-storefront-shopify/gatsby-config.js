@@ -177,7 +177,7 @@ module.exports = {
               {
                 name: 'Basketball',
                 type: 'collection',
-                handle: 'test-collection',
+                handle: 'cards',
               },
               {
                 name: 'Football',
