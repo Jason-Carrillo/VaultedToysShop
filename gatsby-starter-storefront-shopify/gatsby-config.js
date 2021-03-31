@@ -193,7 +193,7 @@ module.exports = {
           },
           { 
             name: 'Funko', 
-            handle: 'header',
+            type: 'header',
             children: [
               {
                 name: 'Funko Pops',
