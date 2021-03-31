@@ -31,8 +31,8 @@ module.exports = {
           name: 'Gatsby Storefront Demo Store',
           short_name: 'Gatsby Storefront',
           start_url: '/',
-          background_color: '#fff',
-          theme_color: '#333',
+          background_color: '#8B3AF5',
+          theme_color: '#F7F41C',
           display: 'standalone',
           icon: 'src/images/shopping_bag.svg',
           icon_options: {
