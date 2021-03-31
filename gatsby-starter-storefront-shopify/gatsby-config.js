@@ -187,7 +187,7 @@ module.exports = {
               {
                 name: 'Soccer',
                 type: 'collection',
-                handle: 'apparel',
+                handle: 'cards',
               },
             ],
           },
@@ -198,7 +198,7 @@ module.exports = {
               {
                 name: 'Funko Pops',
                 type: 'collection',
-                handle: 'apparel',
+                handle: 'figures',
               }
             ],
           },
