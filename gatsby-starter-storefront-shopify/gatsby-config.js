@@ -197,7 +197,7 @@ module.exports = {
             children: [
               {
                 name: 'Funko Pops',
-                type: 'collection',
+                type: 'funko',
                 handle: 'figures',
               }
             ],
