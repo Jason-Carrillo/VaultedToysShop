@@ -166,7 +166,7 @@ module.exports = {
               {
                 name: 'Cards',
                 type: 'collection',
-                handle: 'apparel',
+                handle: 'cards',
               }
             ],
           },
