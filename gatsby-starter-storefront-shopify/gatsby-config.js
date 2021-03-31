@@ -182,7 +182,7 @@ module.exports = {
               {
                 name: 'Football',
                 type: 'collection',
-                handle: 'garden',
+                handle: 'cards',
               },
               {
                 name: 'Soccer',
