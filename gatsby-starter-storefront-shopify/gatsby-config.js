@@ -51,10 +51,10 @@ module.exports = {
       email: 'vaultedtoysshop@gmail.com',
       company: 'Vaulted Toys',
       location: 'Sonora, TX',
-      address: '1 Centre St.',
+      address: '410 S. Crockett Ave.',
       phone: '+1 (800) 123-1234',
-      workingDays: 'Mon - Fri',
-      workingHours: '8AM - 6PM',
+      // workingDays: 'Mon - Fri',
+      // workingHours: '8AM - 6PM',
       socialNetworks: [
         'https://facebook.com',
         'https://instagram.com',
