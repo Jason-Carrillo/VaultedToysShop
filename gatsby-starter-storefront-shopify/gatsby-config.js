@@ -52,7 +52,7 @@ module.exports = {
       company: 'Vaulted Toys',
       location: 'Sonora, TX',
       address: '410 S. Crockett Ave.',
-      phone: '+1 (800) 123-1234',
+      // phone: '+1 (800) 123-1234',
       // workingDays: 'Mon - Fri',
       // workingHours: '8AM - 6PM',
       socialNetworks: [
