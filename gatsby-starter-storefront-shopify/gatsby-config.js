@@ -69,7 +69,6 @@ module.exports = {
       shareButtons: [
         'Facebook',
         'Twitter',
-        'Line',
         'Viber',
       ],
       googleAnalyticsId: 'UA-141525658-5',
