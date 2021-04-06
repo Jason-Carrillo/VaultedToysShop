@@ -58,7 +58,6 @@ module.exports = {
       socialNetworks: [
         'https://facebook.com',
         'https://instagram.com',
-        'https://pinterest.com',
         'https://twitter.com',
         'https://youtube.com',
       ],
