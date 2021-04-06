@@ -212,10 +212,6 @@ module.exports = {
           link: '/policy/privacyPolicy',
         },
         {
-          name: 'Refunds',
-          link: '/policy/refundPolicy',
-        },
-        {
           name: 'External',
           link: 'https://amazon.com',
         },
