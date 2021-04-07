@@ -206,12 +206,7 @@ module.exports = {
         {
           name: 'Terms of Service',
           link: '/policy/termsOfService',
-        },
-        {
-          name: 'Privacy policy',
-          link: '/policy/privacyPolicy',
-        },
-      
+        },      
       ],
       locales: 'en-US',
       currency: 'USD',
