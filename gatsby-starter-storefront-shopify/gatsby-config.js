@@ -211,10 +211,7 @@ module.exports = {
           name: 'Privacy policy',
           link: '/policy/privacyPolicy',
         },
-        {
-          name: 'External',
-          link: 'https://amazon.com',
-        },
+      
       ],
       locales: 'en-US',
       currency: 'USD',
