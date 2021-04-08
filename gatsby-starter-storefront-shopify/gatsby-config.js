@@ -202,11 +202,7 @@ module.exports = {
         {
           name: 'About us',
           link: '/pages/about',
-        },
-        {
-          name: 'Terms of Service',
-          link: '/policy/termsOfService',
-        },      
+        },   
       ],
       locales: 'en-US',
       currency: 'USD',
